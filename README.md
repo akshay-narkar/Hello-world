@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Microverse Git project day 1
 
 > This is a test HTML project to learn working on Git and Github
 
