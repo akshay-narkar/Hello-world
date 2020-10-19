@@ -1,16 +1,13 @@
-
 h1{
-
-color: brown;
-font-size: 50px;
-text-align: center;
-margin-top: 0px;
-background-color: chartreuse;
-padding: 10px;
-font-family: 'Courier New', Courier, monospace;
+color:brown;
+font-size:50px;
+text-align:center;
+margin-top:0;
+background-color:chartreuse;
+padding:10px;
+font-family:'Courier New', Courier, monospace;
 }
 
 body{
-
-    margin:0px;
+margin:0;
 }
